@@ -1,0 +1,8 @@
+{
+  "name": "Strapify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "68a0ff00"
+}
